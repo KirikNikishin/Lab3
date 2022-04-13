@@ -1,0 +1,9 @@
+﻿  Лаба 3.cpp
+C:\Users\kirik\Desktop\ООП\Лаба 3\Лаба 3.cpp(40,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kirik\Desktop\ООП\Лаба 3\Лаба 3.cpp(112,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kirik\Desktop\ООП\Лаба 3\Лаба 3.cpp(173,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kirik\Desktop\ООП\Лаба 3\Лаба 3.cpp(258,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kirik\Desktop\ООП\Лаба 3\Лаба 3.cpp(324,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kirik\Desktop\ООП\Лаба 3\Лаба 3.cpp(377,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kirik\Desktop\ООП\Лаба 3\Лаба 3.cpp(462,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Лаба 3.vcxproj -> C:\Users\kirik\Desktop\ООП\Лаба 3\x64\Debug\Лаба 3.exe
